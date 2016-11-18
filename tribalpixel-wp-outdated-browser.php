@@ -3,7 +3,7 @@
  * Plugin Name: Tribalpixel WP Outdated Browser
  * Description: This plugin show a message if your browser is outdated.
  * Version: 1.0.1
- * Author: Ludovic Bortolotti
+ * Author: Tribalpixel
  * Author URI: http://www.tribalpixel.ch
  * License: MIT
  */
